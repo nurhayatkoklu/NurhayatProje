@@ -8,5 +8,7 @@ public class Ogrenci {
 
         System.out.println("merhaba 3");
         System.out.println("merhaba branch");
+
+        System.out.println("Merhaba dünya ben SDET");
     }
 }
