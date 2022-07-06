@@ -10,5 +10,7 @@ public class Ogrenci {
         System.out.println("merhaba branch");
 
         System.out.println("Merhaba dünya ben SDET");
+
+        System.out.println("Merhaba çocuklar");
     }
 }
